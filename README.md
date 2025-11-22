@@ -11,6 +11,10 @@ A Windows-based kiosk application for managing sales with persistent inventory, 
 - **Payment Simulation** - Test different payment scenarios (Approved/Declined/Timeout/Random)
 - **Bundle Support** - Optional bundle item with automatic cart management
 
+<img width="986" height="633" alt="image" src="https://github.com/user-attachments/assets/3e21b0c1-db6d-4bda-b18b-9421b53eeffa" />
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/e06da2a8-304b-4a6d-abd6-5e9f19936d06" />
+
+
 ## Build Instructions
 
 ### Prerequisites
@@ -56,7 +60,3 @@ Default inventory includes 6 items:
 - Trail-Assist Bundle - $9.99
 - Repair Kit - $7.25
 - Tent Clip Set - $4.99
-
-## License
-
-MIT License - feel free to use and modify as needed.
