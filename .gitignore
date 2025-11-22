@@ -1,0 +1,30 @@
+# Compiled executables
+*.exe
+*.obj
+*.pdb
+
+# Build artifacts
+*.ilk
+*.exp
+*.lib
+
+# Generated files
+inventory.csv
+purchases.log
+interactions.log
+metrics.csv
+transactions.log
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
